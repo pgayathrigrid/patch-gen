@@ -1,0 +1,17 @@
+pyproject.toml
+src/awcp_instrumentation/__init__.py
+src/awcp_instrumentation.egg-info/PKG-INFO
+src/awcp_instrumentation.egg-info/SOURCES.txt
+src/awcp_instrumentation.egg-info/dependency_links.txt
+src/awcp_instrumentation.egg-info/requires.txt
+src/awcp_instrumentation.egg-info/top_level.txt
+src/awcp_instrumentation/domain/__init__.py
+src/awcp_instrumentation/domain/entities/__init__.py
+src/awcp_instrumentation/domain/entities/agent_source.py
+src/awcp_instrumentation/domain/entities/governance_hook.py
+src/awcp_instrumentation/domain/entities/hook_detection_result.py
+src/awcp_instrumentation/domain/entities/instrumentation_patch.py
+src/awcp_instrumentation/domain/entities/validation_report.py
+src/awcp_instrumentation/domain/enums/__init__.py
+src/awcp_instrumentation/domain/enums/hook_category.py
+src/awcp_instrumentation/domain/enums/validation_status.py
